@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LeafMc.aternos.me:41934",
+    "ip": "LeafMc.aternos.me",
     "port": 41934,
     "version": "1.21.1"
   },
